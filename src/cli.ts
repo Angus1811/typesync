@@ -115,9 +115,6 @@ function renderSyncedFile(file: ISyncedFile) {
   return rendered
 }
 
-/**
- * Prints the help text.
- */
 function printHelp() {
   console.log(
     chalk`
